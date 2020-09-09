@@ -1,1 +1,1 @@
-# unity-cookbook-2020-ch11-06-cinemachine-freelook
+# unity-cookbook-2020-ch11-07-cinemachine-freelook
